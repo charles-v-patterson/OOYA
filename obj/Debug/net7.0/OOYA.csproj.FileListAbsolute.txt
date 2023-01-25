@@ -1,0 +1,15 @@
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\OOYA\bin\Debug\net7.0\OOYA.exe
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\OOYA\bin\Debug\net7.0\OOYA.deps.json
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\OOYA\bin\Debug\net7.0\OOYA.runtimeconfig.json
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\OOYA\bin\Debug\net7.0\OOYA.dll
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\OOYA\bin\Debug\net7.0\OOYA.pdb
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\OOYA\obj\Debug\net7.0\OOYA.csproj.AssemblyReference.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\OOYA\obj\Debug\net7.0\OOYA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\OOYA\obj\Debug\net7.0\OOYA.AssemblyInfoInputs.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\OOYA\obj\Debug\net7.0\OOYA.AssemblyInfo.cs
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\OOYA\obj\Debug\net7.0\OOYA.csproj.CoreCompileInputs.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\OOYA\obj\Debug\net7.0\OOYA.dll
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\OOYA\obj\Debug\net7.0\refint\OOYA.dll
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\OOYA\obj\Debug\net7.0\OOYA.pdb
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\OOYA\obj\Debug\net7.0\OOYA.genruntimeconfig.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\OOYA\obj\Debug\net7.0\ref\OOYA.dll
